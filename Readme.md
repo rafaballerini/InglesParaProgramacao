@@ -1,8 +1,10 @@
 # É preciso saber inglês para programar?
 
-[Nesse vídeo]() tirarei essa grande dúvida que hoje muitas pessoas que querem entrar e se desenvolver na área de tecnologia tem: é preciso saber inglês para programar?
+[Nesse vídeo](https://www.youtube.com/watch?v=9qWsF-vepUY) tirarei essa grande dúvida que hoje muitas pessoas que querem entrar e se desenvolver na área de tecnologia tem: é preciso saber inglês para programar?
 
-Primeiramente gostaria de agradecer ao nosso patrocinador do dia que é o [Cambly](), uma plataforma de ensino personalizado de inglês, onde as aulas são todas particulares com tutores nativos de países de língua inglesa
+Primeiramente gostaria de agradecer ao nosso patrocinador do dia que é o [Cambly](https://bit.ly/2X0JuXZ), uma plataforma de ensino personalizado de inglês, onde as aulas são todas particulares com tutores nativos de países de língua inglesa
+
+Utilize meu código "RAFAELLA-PACK" para ganhar o Cambly Fluency Pack
 
 E no fim do vídeo eu tenho uma notícia incrível pra contar pra vocês que tenho certeza que vai ajudar muito nesse caminho de aprender e melhorar o inglês, então bora pro vídeo
 
@@ -62,7 +64,7 @@ Porém, não é aí que para! Lembra que no começo do vídeo falei que tinha um
 
 ## Novidade:
 
-[Cambly Fluency Pack:]()
+[Cambly Fluency Pack:](https://bit.ly/2X0JuXZ) com meu código "RAFAELLA-PACK"
 - Materiais de leitura para ajudar a conquistar a fluência
 - Vídeo-aulas gravadas com nossos tutores nativos
 - Exercícios para um aprendizado prático
