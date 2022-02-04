@@ -80,3 +80,4 @@ Pensando em fazer outro vídeo mostrando algumas das coisas que me ajudaram a de
 **Não esqueçam de deixar o like e se inscrever no [canal do Youtube](https://youtube.com/RafaellaBallerini) ❤**
 
 Até semana que vem, um beijo!
+
